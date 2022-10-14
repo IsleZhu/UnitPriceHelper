@@ -109,7 +109,7 @@ git clone https://github.com/yzhu27/UnitPriceHelper.git
 ## Contributors
 **SE22 Group 7**
 - Pinxiang Wang
+- Yiran Zhu
 - Jiayuan Huang
 - Yuheng Zhu
 - Mengzhe Wang
-- Yiran Zhu
